@@ -13,8 +13,8 @@ dependencies:
   network_inspector: ^1.1.1
   flutter_riverpod: ^2.6.1
   shared_preferences: ^2.5.2
-  intl: ^0.20.1
-
+  intl: 
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
