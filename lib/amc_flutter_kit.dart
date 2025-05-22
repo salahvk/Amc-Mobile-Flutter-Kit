@@ -1,6 +1,6 @@
 // ignore_for_file: unnecessary_library_name
 
-library roptia_flutter_kit;
+library amc_flutter_kit;
 
 export 'src/utils/app_formatter.dart';
 export 'src/utils/device_utils.dart';
@@ -22,4 +22,6 @@ export 'src/api/model/app_meta.dart';
 export 'package:intl/intl.dart' show Intl, DateFormat;
 export 'package:network_inspector/presentation/pages/activity_page.dart';
 export 'package:dio/dio.dart' hide Options;
+
+export 'src/app/api/data_state.dart';
 
