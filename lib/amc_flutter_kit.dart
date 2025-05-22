@@ -15,3 +15,9 @@ export 'package:dio/dio.dart' hide Options;
 
 export 'src/api/v2/data_state.dart';
 
+export 'src/analytics/src/analytics_repository.dart';
+export 'src/analytics/src/models/analytics_event.dart';
+export 'src/analytics/src/models/amc_event.dart';
+export 'src/analytics/src/models/models.dart';
+
+
